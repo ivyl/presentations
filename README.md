@@ -2,7 +2,7 @@
 ## Scala Actors
 Polish
 Aktorzy w scali. Opis modelu, native scala actors, akka (+java).
-## Scala Introdaction
+## Scala Introduction
 Krótkie wporwadzenie do Scali
 ## JVM
 Polish
